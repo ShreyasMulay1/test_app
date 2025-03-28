@@ -1,0 +1,3 @@
+Git is a powerful and open source distributed version control system
+Git stores a source code for remote access 
+Git provides versions if error occurs in the current version then we can revert it to the previous open
